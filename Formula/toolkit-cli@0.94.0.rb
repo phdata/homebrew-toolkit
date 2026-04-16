@@ -1,4 +1,4 @@
-class ToolkitCliAT0 < Formula
+class ToolkitCliAT0940 < Formula
   desc "phData Toolkit CLI - AI-powered tools for Data, ML, and Platform engineering"
   homepage "https://toolkit.phdata.io"
   url "https://repo-dev.phdata.io/toolkit-cli/maven/io/phdata/toolkit/toolkit-cli/0.94.0/toolkit-cli-0.94.0.zip"
