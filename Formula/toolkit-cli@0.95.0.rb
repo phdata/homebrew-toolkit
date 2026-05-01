@@ -2,7 +2,7 @@ class ToolkitCliAT0950 < Formula
   desc "phData Toolkit CLI - AI-powered tools for Data, ML, and Platform engineering"
   homepage "https://toolkit.phdata.io"
   url "https://repo.phdata.io/toolkit-cli/0.95.0/toolkit-cli-0.95.0.zip"
-  sha256 "3faf9f9bd3bdc88d3601aad8b54e4801324912a310ecb3c3fd206356f5d25027"
+  sha256 "e063c8b7e9806f2fc7d891e7e90071905228cbdf74ca513287ce59a1137ac15f"
   version "0.95.0"
 
   keg_only :versioned_formula
