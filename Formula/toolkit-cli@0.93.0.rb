@@ -1,7 +1,7 @@
 class ToolkitCliAT0930 < Formula
   desc "phData Toolkit CLI - AI-powered tools for Data, ML, and Platform engineering"
   homepage "https://toolkit.phdata.io"
-  url "https://repo.phdata.io/toolkit-cli/maven/io/phdata/toolkit/toolkit-cli/0.93.0/toolkit-cli-0.93.0.zip"
+  url "https://repo.phdata.io/toolkit-cli/0.93.0/toolkit-cli-0.93.0.zip"
   sha256 "7ac0dd8c21bf5ccb823aaad5ad304517719ea491553cd95c57e3100df46d1f40"
   version "0.93.0"
 
