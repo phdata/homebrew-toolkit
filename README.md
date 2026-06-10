@@ -1,7 +1,7 @@
 # phData Homebrew Tap
 
 Homebrew is a package manager for macOS (or Linux), go to https://brew.sh to learn more.
-In additional to the official repository, Homebrew allows you to add third-party repositories. 
+In addition to the official repository, Homebrew allows you to add third-party repositories. 
 Tap repositories like this one provide additional packages.
 Go to https://docs.brew.sh/Taps for more details.
 
