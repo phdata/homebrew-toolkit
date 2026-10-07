@@ -1,9 +1,9 @@
 class ToolkitCli < Formula
   desc "phData Toolkit CLI - AI-powered tools for Data, ML, and Platform engineering"
   homepage "https://toolkit.phdata.io"
-  url "https://repo.phdata.io/toolkit-cli/0.112.1/toolkit-cli-0.112.1.zip"
-  sha256 "1b45bb35da7f008c1360c7a6e5926a4703198540ef7853556c74a2cfcf7b2269"
-  version "0.112.1"
+  url "https://repo.phdata.io/toolkit-cli/0.112.2/toolkit-cli-0.112.2.zip"
+  sha256 "88a28737b06208d028131300b908214e33b8fcdb059999a17083f7c4e4f9af9d"
+  version "0.112.2"
 
   depends_on "openjdk@25"
 
